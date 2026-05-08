@@ -1,46 +1,15 @@
+
 <div align="center">
-
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Naeem%20Naikwadi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Researcher%20%7C%20Backend%20Architect&descAlignY=60&descSize=18&animation=fadeIn" />
-
-<br/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%80%94+ML+Researcher;ERP+Platforms+%E2%86%92+Production+Systems;From+CNN+Models+to+User+Interfaces;Backend+Architecture+%7C+Assistive+AI;Open+to+SWE+%2F+ML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naeemnaikwadi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemnaikwadi32@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://naeemnaikwadi.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/naeemnaikwadi)
-
-<br/>
-
-[![](https://komarev.com/ghpvc/?username=naeemnaikwadi&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/naeemnaikwadi)
-![GitHub followers](https://img.shields.io/github/followers/naeemnaikwadi?style=for-the-badge&color=blueviolet&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-```javascript
-const naeem = {
-  location:    "Kolhapur, Maharashtra, India 🇮🇳",
-  education:   "B.Tech CSBS @ KIT's College of Engineering (CGPA: 8.89)",
-  batch:       "2023 – 2027",
-  focus:       ["Backend Architecture", "ML Research", "Assistive AI", "Scalable Systems"],
-  currentWork: "iCAM — On-device CNN for visually impaired (94.4% accuracy, 4MB TFLite)",
-  funFact:     "My CNN outperformed fine-tuned MobileNetV2 at 3.5× smaller size 🤯",
-  contact:     "naeemnaikwadi32@gmail.com  |  +91 7030204042",
-};
-```
-
-
----
 
 ## 💻 Tech Stack
 
