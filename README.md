@@ -39,12 +39,6 @@ const naeem = {
 };
 ```
 
-- 🏆 **Runner-Up** — PIONEER 2026 National Level Idea Presentation (MindBridge) @ KIT CoE
-- 🥈 **Runner-Up** — PBL Competition 2025 for SkillSync ERP Platform
-- 🔬 **ML Researcher** — iCAM (94.4% CNN · 4 MB TFLite · manuscript in preparation)
-- 💡 Built a **10-role ERP platform** with JWT + RBAC + Gemini AI integration
-- ⚡ Solved **100+ LeetCode** problems — Arrays, Strings, Prefix Sum, Sliding Window, Two Pointers
-- 🎓 **AICTE EduSkills Intern** — Deployed full-stack REST API applications (Apr–Jun 2024)
 
 ---
 
@@ -123,70 +117,7 @@ const naeem = {
 
 </div>
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎓 SkillSync — 10-Role ERP Platform
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-modernerp--bay.vercel.app-blueviolet?style=for-the-badge)](https://modernerp-bay.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-SkillSync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naeemnaikwadi/SkillSync)
-
-</div>
-
-> **Stack:** React · Node.js · Express · MongoDB · JWT · RBAC · Gemini AI · PWA
-
-| Feature | Details |
-|:--------|:--------|
-| 🔐 Auth | JWT + RBAC across 10 roles — Admin, Student, Instructor, Fee Manager, Hostel Manager, Exam Controller, Registrar, Librarian, Accountant, Admission Officer |
-| 🤖 AI | Gemini AI chatbot for doubt-solving + custom Reasoning AI for weighted progress scoring |
-| 📊 Analytics | Attendance, participation & academic data via MongoDB Atlas |
-| 📱 Deploy | Cross-device PWA on Vercel + Render |
-
-<br/>
-
-<div align="center">
-
-### 📚 EduVerse — Smart Learning Platform
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-eduverse--liard.vercel.app-00b4d8?style=for-the-badge)](https://eduverse-liard.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-smart__dashboard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naeemnaikwadi/smart_dashboard)
-
-</div>
-
-> **Stack:** React · Node.js · Express · MongoDB · JWT · RBAC · Socket.IO · LiveKit
-
-| Feature | Details |
-|:--------|:--------|
-| 📹 Video | LiveKit integration with camera/mic selection & raise-hand feature |
-| 💬 Chat | Bidirectional Socket.IO real-time chat |
-| 🔒 Auth | JWT-authenticated Instructor/Student dashboards with RBAC |
-| ☁️ Deploy | MongoDB Atlas + Vercel + Render |
-
-<br/>
-
-<div align="center">
-
-### 🤖 iCAM — Assistive On-Device Vision AI
-
-[![APK](https://img.shields.io/badge/📱_Android_APK-Download_iCAM-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/naeemnaikwadi)
-
-</div>
-
-> **Stack:** Python · TensorFlow · Keras · TFLite · OpenCV · Android
-
-| Metric | Result |
-|:-------|:-------|
-| 🎯 Accuracy | **94.4%** peak validation |
-| ⚔️ vs MobileNetV2 | **+5.3 pp** better · **3.5× smaller** (4 MB vs 14 MB) |
-| ⚡ Latency | **~163 ms** — 22% faster inference |
-| 🗂️ Dataset | 3,829 self-curated images · 14 FMCG classes |
-| ♿ Access | Real-time TTS + Haptic feedback · fully offline |
-| 📝 Research | Journal manuscript in preparation |
-
----
 
 ## 📊 GitHub Stats
 
@@ -224,43 +155,7 @@ const naeem = {
 
 ---
 
-## 🔝 Top Contributed Repos
 
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=naeemnaikwadi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏅 | Event | Year |
-|:--:|:------|:----:|
-| 🥈 Runner-Up | PIONEER 2026 — National Level Idea Presentation (MindBridge) @ KIT CoE | 2026 |
-| 🥈 Runner-Up | PBL Competition — SkillSync ERP Platform | 2025 |
-| 🔬 ML Researcher | iCAM — 94.4% CNN · 4 MB TFLite · Journal Manuscript in Preparation | Ongoing |
-| ⚡ 100+ Solved | LeetCode — Arrays · Strings · Prefix Sum · Two Pointers · Sliding Window | Ongoing |
-| 🎓 AICTE Intern | EduSkills Full Stack Developer Internship | 2024 |
-
-</div>
-
----
-
-## 🧩 DSA Progress
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=naeemnaikwadi&theme=dark)](https://leetcode.com/naeemnaikwadi)
-
-`Arrays` &nbsp;·&nbsp; `Strings` &nbsp;·&nbsp; `Prefix Sum` &nbsp;·&nbsp; `Two Pointers` &nbsp;·&nbsp; `Sliding Window`
-
-</div>
-
----
 
 <div align="center">
 
